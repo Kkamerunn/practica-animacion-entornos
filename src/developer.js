@@ -1,0 +1,1 @@
+export const developerName = "Lucas Di Genova";
